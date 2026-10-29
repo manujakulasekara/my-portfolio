@@ -54,7 +54,7 @@ export default function App() {
             </div>
             <div className="flex gap-4 text-sm font-medium">
               <a href="https://github.com/manujakulasekara" className="text-indigo-400 hover:underline">GitHub Code &rarr;</a>
-              <a href="#" className="text-indigo-400 hover:underline">Live Demo &rarr;</a>
+              <a href="https://my-portfolio-five-omega-c1jm3fyikk.vercel.app/" className="text-indigo-400 hover:underline">Live Demo &rarr;</a>
             </div>
           </div>
 
